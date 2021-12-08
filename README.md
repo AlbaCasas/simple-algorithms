@@ -18,7 +18,7 @@ This is a collection of basic coding exercises meant to practice problem solving
 
 ### Tech Used
 
-* [JS / ES6](https://tc39.es/ecma262/)
+- [JS / ES6](https://tc39.es/ecma262/)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alba-casas/
