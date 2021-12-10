@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-Nothing to see here (yet)
+- [01-fizzbuzz](https://github.com/AlbaCasas/simple-algorithms/pull/2)
 
 ## About The Project
 
