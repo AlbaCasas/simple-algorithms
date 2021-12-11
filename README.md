@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [01-fizzbuzz](https://github.com/AlbaCasas/simple-algorithms/pull/2)
+- [02 - Speed Limit Checker](https://github.com/AlbaCasas/simple-algorithms/pull/2)
 
 ## About The Project
 
