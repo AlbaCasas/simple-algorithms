@@ -1,6 +1,8 @@
-const saludo = "hola";
-const despedida = "adios";
-function string() {
-  return saludo, despedida;
+// holaadios
+// albacasas
+
+function sumStrings(text1, text2) {
+  return text1 + text2;
 }
-console.log(saludo + despedida);
+console.log(sumStrings("hola", "adios"));
+console.log(sumStrings("alba", "casas"));
