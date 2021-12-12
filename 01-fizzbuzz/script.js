@@ -1,5 +1,3 @@
-const number = isFizzOrBuzz();
-
 function isFizzOrBuzz(number) {
   if (isNaN(number)) {
     return "Is not a number";
