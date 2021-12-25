@@ -13,6 +13,9 @@
 - [01 - Is Fizz or Buzz?](https://github.com/AlbaCasas/simple-algorithms/pull/2)
 - [02 - Speed Limit Checker](https://github.com/AlbaCasas/simple-algorithms/pull/3)
 - [03 - Greatest Number](https://github.com/AlbaCasas/simple-algorithms/pull/4)
+- [Extra - Functions](https://github.com/AlbaCasas/simple-algorithms/pull/5)
+- [Extra - Functions 2](https://github.com/AlbaCasas/simple-algorithms/pull/6)
+- [04 - Forecast](https://github.com/AlbaCasas/simple-algorithms/pull/7)
 
 ## About The Project
 
