@@ -1,0 +1,24 @@
+{
+  "name": "simple-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbaCasas/simple-algorithms.git"
+  },
+  "author": "Alba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbaCasas/simple-algorithms/issues"
+  },
+  "homepage": "https://github.com/AlbaCasas/simple-algorithms#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
