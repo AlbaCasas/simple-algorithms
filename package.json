@@ -17,5 +17,8 @@
   "homepage": "https://github.com/AlbaCasas/simple-algorithms#readme",
   "devDependencies": {
     "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "enquirer": "^2.3.6"
   }
 }
