@@ -1,30 +1,29 @@
-const { computerPlay } = require("./script");
-const { playRound } = require("./script");
+const { getWinner, getComputerChoice } = require("./script");
 
-test("computerPlay returns rock, paper, or scissors", () => {
-  expect(["rock", "paper", "scissors"]).toContain(computerPlay());
+test("getComputerChoice returns rock, paper, or scissors", () => {
+  expect(["rock", "paper", "scissors"]).toContain(getComputerChoice());
 });
 
-describe("playRound returns player", () => {
+describe("getWinner returns player", () => {
   test("player: rock - computer: scissors", () => {
-    expect(playRound("rock", "scissors")).toBe("player");
+    expect(getWinner("rock", "scissors")).toBe("player");
   });
   test("player: scissors - computer: paper", () => {
-    expect(playRound("scissors", "paper")).toBe("player");
+    expect(getWinner("scissors", "paper")).toBe("player");
   });
   test("player: paper - computer: rock", () => {
-    expect(playRound("paper", "rock")).toBe("player");
+    expect(getWinner("paper", "rock")).toBe("player");
   });
 });
 
-describe("playRound returns computer", () => {
+describe("getWinner returns computer", () => {
   test("player: scissors - computer: rock", () => {
-    expect(playRound("scissors", "rock")).toBe("computer");
+    expect(getWinner("scissors", "rock")).toBe("computer");
   });
   test("player: paper - computer: scissors", () => {
-    expect(playRound("paper", "scissors")).toBe("computer");
+    expect(getWinner("paper", "scissors")).toBe("computer");
   });
   test("player: rock - computer: paper", () => {
-    expect(playRound("rock", "paper")).toBe("computer");
+    expect(getWinner("rock", "paper")).toBe("computer");
   });
 });
