@@ -17,7 +17,8 @@
 - [Extra - Functions 2](https://github.com/AlbaCasas/simple-algorithms/pull/6)
 - [04 - Forecast](https://github.com/AlbaCasas/simple-algorithms/pull/7)
 - [05 - Rock, paper, scissors](https://github.com/AlbaCasas/simple-algorithms/pull/8)
-- [06 - Hangman Game](https://github.com/AlbaCasas/simple-algorithms/pull/10)
+- [06 - Guessing game](https://github.com/AlbaCasas/simple-algorithms/pull/9)
+- [07 - Hangman Game](https://github.com/AlbaCasas/simple-algorithms/pull/10)
 
 ## About The Project
 
