@@ -18,6 +18,7 @@
 - [04 - Forecast](https://github.com/AlbaCasas/simple-algorithms/pull/7)
 - [05 - Rock, paper, scissors](https://github.com/AlbaCasas/simple-algorithms/pull/8)
 - [06 - Guessing game](https://github.com/AlbaCasas/simple-algorithms/pull/9)
+- [07 - Hangman Game](https://github.com/AlbaCasas/simple-algorithms/pull/10)
 
 ## About The Project
 
