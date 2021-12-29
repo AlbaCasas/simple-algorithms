@@ -20,6 +20,7 @@
 - [06 - Guessing game](https://github.com/AlbaCasas/simple-algorithms/pull/9)
 - [07 - Hangman Game](https://github.com/AlbaCasas/simple-algorithms/pull/10)
 - [08 - Library](https://github.com/AlbaCasas/simple-algorithms/pull/11)
+- [09 - CRUD library](https://github.com/AlbaCasas/simple-algorithms/pull/12)
 
 ## About The Project
 
