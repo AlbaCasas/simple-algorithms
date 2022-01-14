@@ -10,17 +10,20 @@
 
 ## Table of Contents
 
+### Algorithms
 - [01 - Is Fizz or Buzz?](https://github.com/AlbaCasas/simple-algorithms/pull/2)
 - [02 - Speed Limit Checker](https://github.com/AlbaCasas/simple-algorithms/pull/3)
 - [03 - Greatest Number](https://github.com/AlbaCasas/simple-algorithms/pull/4)
-- [Extra - Functions](https://github.com/AlbaCasas/simple-algorithms/pull/5)
-- [Extra - Functions 2](https://github.com/AlbaCasas/simple-algorithms/pull/6)
 - [04 - Forecast](https://github.com/AlbaCasas/simple-algorithms/pull/7)
 - [05 - Rock, paper, scissors](https://github.com/AlbaCasas/simple-algorithms/pull/8)
 - [06 - Guessing game](https://github.com/AlbaCasas/simple-algorithms/pull/9)
 - [07 - Hangman Game](https://github.com/AlbaCasas/simple-algorithms/pull/10)
 - [08 - Library](https://github.com/AlbaCasas/simple-algorithms/pull/11)
 - [09 - CRUD library](https://github.com/AlbaCasas/simple-algorithms/pull/12)
+
+### Extra practice
+- [Extra - Functions](https://github.com/AlbaCasas/simple-algorithms/pull/5)
+- [Extra - Functions 2](https://github.com/AlbaCasas/simple-algorithms/pull/6)
 
 ## About The Project
 
